@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ganeshraja10/docker-sample#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "jest": "^26.0.1"
   }
 }
